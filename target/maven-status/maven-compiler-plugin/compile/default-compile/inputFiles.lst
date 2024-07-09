@@ -1,0 +1,9 @@
+/data/Documentos/eclipse-workspace/personal-management/src/main/java/com/project/personal_management/exceptions/ValidationException.java
+/data/Documentos/eclipse-workspace/personal-management/src/main/java/com/project/personal_management/controllers/UsuarioController.java
+/data/Documentos/eclipse-workspace/personal-management/src/main/java/com/project/personal_management/databaseConexion/SimpleHttpServer.java
+/data/Documentos/eclipse-workspace/personal-management/src/main/java/com/project/personal_management/services/UsuarioService.java
+/data/Documentos/eclipse-workspace/personal-management/src/main/java/com/project/personal_management/databaseConexion/ConexionDB.java
+/data/Documentos/eclipse-workspace/personal-management/src/main/java/com/project/personal_management/validations/Validations.java
+/data/Documentos/eclipse-workspace/personal-management/src/main/java/com/project/personal_management/repositories/UsuarioRepository.java
+/data/Documentos/eclipse-workspace/personal-management/src/main/java/com/project/personal_management/Main.java
+/data/Documentos/eclipse-workspace/personal-management/src/main/java/com/project/personal_management/entities/Usuario.java
